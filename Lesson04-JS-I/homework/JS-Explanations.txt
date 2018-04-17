@@ -1,0 +1,13 @@
+Variables: Variables are applied by using var, const and let. They store a value that you set.
+Example: var = 'cat'; const = 'life' let = 'might'
+Var is the old version of setting values and can be re-assigned later. Const always keeps the value you assigned and let allows for even more flexibility.
+
+Strings: Strings are always set with ''. They are a data type. You could right anything as long as it is inside '' and it becomes a string.
+
+Functions: Are a keyword that is assigned an operation or a value inside (). They accept arguments which are values you supply(and dictate the return) sometimes and others they just return something. Returns are the output or the result of the function.
+
+'if' statements: If, else and else if statements are a statement that runs if a certain condition meets the requirements. For example if you wanted to find out if a door is open, you could set a condition like if x > 4 in this case pm then door is open if not then door is closed. It allows for more complex returns.
+
+Boolean values: They add to the complexity of function etc. A boolean is either true or false. They also have logical operators like && and ||, which allow more flexibility.
+
+
