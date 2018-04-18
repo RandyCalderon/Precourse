@@ -1,0 +1,5 @@
+For : A for loop takes in arguments with a variable in most cases i set to something. Then depending on the next two expressions renders commands. It starts with 
+The first part of the for loop is like a counter and you can declare new variables with let or var. Then the condition follows that tells you how long this loop will run for and under what condition it stops. The last part is just the increment that is used to update the variable.
+Then we have the statement which is the part of the for loop that is executed based on whether the condition is true.
+
+&&, ||, ! : And or and not are logical operators that work based on boolean logic, in other words whether something is true or false. && is true only if two statements are true and false otherwise meanwhile || is true with any combination of true and false and false only when 2 statements are false. ! on the other hand is the opposite of whatever the boolean result is.
