@@ -1,0 +1,1 @@
+Arrays: They are objects and data structures that can hold multiple values. Arrays can hold arrays inside and can be part of an object as well. They have a multitude of methods allowing for a lot of flexibility.
