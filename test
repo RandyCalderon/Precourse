@@ -1,4 +1,10 @@
 
 > lambdaschoolprecourse@1.0.0 test C:\Users\humpb\newfolder\precourse
-> eslint Lesson09-JS-VI/homework/homework.js Lesson08-JS-V/homework/homework.js Lesson07-JS-IV/homework/homework.js Lesson06-JS-III/homework/homework.js  Lesson05-JS-II/homework/homework.js Lesson04-JS-I/homework/homework.js && jest "JSIII"
+> eslint Lesson09-JS-VI/homework/homework.js Lesson08-JS-V/homework/homework.js Lesson07-JS-IV/homework/homework.js Lesson06-JS-III/homework/homework.js  Lesson05-JS-II/homework/homework.js Lesson04-JS-I/homework/homework.js && jest "JSIV"
+
+
+C:\Users\humpb\newfolder\precourse\Lesson07-JS-IV\homework\homework.js
+  101:21  error  Parsing error: Unexpected token .
+
+✖ 1 problem (1 error, 0 warnings)
 
