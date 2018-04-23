@@ -1,0 +1,3 @@
+Classes are always defined with capital letters to avoid confusion regarding its use and then set by using the new operator preceding the constructor function, which essentially takes your arguments and applies everything within the function to what you want it to. This along with prototype allow for flexibility while creating objects that share properties and methods. 
+Prototype are a way to add methods to a class or a type/object and have it be accessible from then on. This allows for a lot of flexibility and avoiding repeating yourself when coding.
+
